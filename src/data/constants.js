@@ -12,7 +12,7 @@ export const Bio = {
   // github: "https://github.com/rishavchanda",
   resume:
     // "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-    "https://drive.google.com/file/d/18s-GQjr9YSeQJV-q7PuzqzK3kqCLMxt2/view?usp=drive_link",
+    "https://drive.google.com/file/d/1yH8SNBeR2VVHFG-7eHUWCXZfveiO5hPW/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/mohan-jangam-1a0469191/",
   // twitter: "https://twitter.com/RishavChanda",
   // insta: "https://www.instagram.com/rishav_chanda/",
